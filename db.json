@@ -205,8 +205,62 @@
                    "type":1,
                    "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
                 }
+             },{
+               "viewType":"verticalScroll",
+                   "header":{
+                      "title":"Popular this week",
+                      "hasMore":true
+                   },
+                 "data":[
+                      {
+                         "viewType":"gridElement",
+                         "imageUrl":"https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                         "title":"Upto 30% Off",
+                         "action":{
+                            "type":1,
+                            "value":"d43e24ca-3522-4106-92f6-09f0b80d1061"
+                         }
+                      },
+                      {
+                         "viewType":"gridElement",
+                         "imageUrl":"https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                         "title":"Buy 1 get 1 Free",
+                         "action":{
+                            "type":1,
+                            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+                         }
+                      },
+                      {
+                         "viewType":"gridElement",
+                         "imageUrl":"https://images.unsplash.com/photo-1497888329096-51c27beff665?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                         "title":"Water Licking Options",
+                         "action":{
+                            "type":1,
+                            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+                         }
+                      },
+                      {
+                         "viewType":"gridElement",
+                         "imageUrl":"https://images.unsplash.com/photo-1437750769465-301382cdf094?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                         "title":"Lip-Smacking Biryanis",
+                         "action":{
+                            "type":1,
+                            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+                         }
+                      },
+                      {
+                         "viewType":"gridElement",
+                         "imageUrl":"https://images.unsplash.com/photo-1506395308321-904a71783d60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+                         "title":"Heavenly Pizzas",
+                         "action":{
+                            "type":1,
+                            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+                         }
+                      } 
+                 ]
              }
           ]
        }
     ]
  }
+
