@@ -157,7 +157,7 @@
 			]
       },
 	  {
-	  "viewType":"verticalScroll",
+	  "viewType":"horizontalScroll",
          "header":{
             "title":"Popular this week",
             "hasMore":true
